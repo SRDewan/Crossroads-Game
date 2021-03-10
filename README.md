@@ -1,4 +1,4 @@
-# ISS Assignment 3 
+# Crossroads Multiplayer Game
 ### Game Development using Python and PyGame 
 ### Read the instructions and try out my game.  
 
