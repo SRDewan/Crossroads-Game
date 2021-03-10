@@ -1,8 +1,5 @@
 # ISS Assignment 3 
 ### Game Development using Python and PyGame 
-> _Shaurya Rajat Dewan
-> 2019101017_
-
 ### Read the instructions and try out my game.  
 
 
@@ -33,10 +30,11 @@ Keyboard `Arrow Keys` to move up, down, left and right for  `PLAYER 2`.
 ### How to install : 
 
 1. Download the folder/copy it to your local device. 
-1. Install python, pygame, configparser 
-	1. Check this link to get them installed on linux – https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/ 
-	1. Download PyGame – https://www.pygame.org/download.shtml 
-	1. Further help - https://www.pygame.org/wiki/GettingStarted
+1. Install python - Check this link to get it installed on linux – https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/ 
+1. Open the folder in terminal and run:<br /> 
+	pip3 install -r requirements.txt<br /> 
+		(OR)<br />
+	pip install -r requirements.txt
 1. Open the folder in Terminal and run : 
 	python3 game.py 
 		(OR)
