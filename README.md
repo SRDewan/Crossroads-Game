@@ -33,11 +33,9 @@ Keyboard `Arrow Keys` to move up, down, left and right for  `PLAYER 2`.
 1. Install python - Check this link to get it installed on linux – https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/ 
 1. Open the folder in terminal and run:<br /> 
 	pip3 install -r requirements.txt<br /> 
+	python3 game.py<br /> 
 		(OR)<br />
-	pip install -r requirements.txt
-1. Open the folder in Terminal and run : 
-	python3 game.py 
-		(OR)
+	pip install -r requirements.txt<br />
  	python game.py
 1. Enjoy the Game.  
 
